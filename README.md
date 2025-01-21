@@ -3,5 +3,6 @@ Entirely programmed in R, developed a variety of plots (3D scatter, line, histog
 Focused on visualizing answers to the questions assigned in competition.
 
 Reach out to me by email @ truon432@umn.edu and I'll do my best to answer any other questions/inquiries.
-Please do not steal my project. Thanks for viewing!
+Please do not steal my project. Thanks!
 Full project viewable @ https://willtruong.shinyapps.io/RECAP/
+LinkedIn Profile: https://www.linkedin.com/in/truongw
