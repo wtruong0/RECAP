@@ -1,0 +1,12 @@
+name: RECAP
+title: RECAP
+username: willtruong
+account: willtruong
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13757899
+bundleId: 9671142
+url: https://willtruong.shinyapps.io/RECAP/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
